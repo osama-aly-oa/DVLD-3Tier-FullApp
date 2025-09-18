@@ -6,16 +6,17 @@ This system streamlines the issuance, renewal, replacement, and management of dr
 ---
 
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Architecture](#architecture)
-- [Tech Stack](#tech-stack)
-- [Database Design](#database-design)
-- [Installation & Setup](#installation--setup)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Future Enhancements](#future-enhancements)
-- [License](#license)
+- [Overview](#-overview)
+- [Key Features](#-key-features)
+- [Architecture](#-architecture)
+- [Tech Stack](#-tech-stack)
+- [Database Design](#-database-design)
+- [Installation & Setup](#-installation--setup)
+- [Usage](#-usage)
+- [Screenshots](#-screenshots)
+- [Future Enhancements](#-future-enhancements)
+- [License](#-license)
+
 
 ---
 
@@ -131,5 +132,6 @@ Relational schema with key entities:
 4. **Schedule Tests** – Assign dates and record results.
 5. **Issue Licenses** – Upon successful test completion and fee payment.
 6. **Manage Users & People** – Create, add, edit, or delete accounts.
+
 
 
