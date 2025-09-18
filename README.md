@@ -108,8 +108,8 @@ Relational schema with key entities:
 4. **Restore the database**
    - Open SQL Server Management Studio (SSMS).  
    - Right‑click **Databases** → **Restore Database**.  
-   - Select **Device** and browse to the `.bak` file in.  
-   - Restore the database (e.g., name it `DVLD`).
+   - Select **Device** and browse to the `.bak` file in DVLD_DB folder.  
+   - Restore the database (e.g., name it `DVLD_DB`).
 
 5. **Update the connection string**  
    - Open `App.config` in the Presentation Layer project.  
@@ -131,4 +131,5 @@ Relational schema with key entities:
 4. **Schedule Tests** – Assign dates and record results.
 5. **Issue Licenses** – Upon successful test completion and fee payment.
 6. **Manage Users & People** – Create, add, edit, or delete accounts.
+
 
