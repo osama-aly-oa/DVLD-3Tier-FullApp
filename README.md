@@ -134,7 +134,7 @@ Relational schema with key entities:
 
 ## 📸 Screenshots
 
-All screenshots are stored in the [`/Project_Screenshots`](https://github.com/osama-aly-oa/DVLD-3Tier-FullApp/Project_Screenshots) folder of this repository.
+All screenshots are stored in the [`/screenshots`](https://github.com/osama-aly-oa/DVLD-3Tier-FullApp/tree/main/screenshots) folder of this repository.
 
 Click the link above to view:
 - Login Form
