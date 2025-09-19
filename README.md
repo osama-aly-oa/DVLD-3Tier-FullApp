@@ -132,6 +132,16 @@ Relational schema with key entities:
 6. **Manage Users & People** – Create, add, edit, or delete accounts.
 
 
+## 📸 Screenshots
+
+All screenshots are stored in the [`/Project_Screenshots`](https://github.com/osama-aly-oa/DVLD-3Tier-FullApp/Project_Screenshots) folder of this repository.
+
+Click the link above to view:
+- Login Form
+- Applicant Management
+- License Issuance
+- Test Scheduling
+- User Management
 
 
 
